@@ -1,2 +1,2 @@
 # Collaborated-works
-This is some of collaborative works I have done for Quality Department in Al-Noor Hospital.
+This is some of collaborated works I have done for Quality Department in Al-Noor Hospital.
