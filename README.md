@@ -6,3 +6,4 @@ https://abdulaziz-alsulami.medium.com/creating-a-dashboard-in-excel-7842732413b1
 2. Meetings Tracking System
 
 3. Analyzing Regular Text (Consultations)
+The Articel will publish soon
