@@ -6,4 +6,4 @@ This is some of collaborated works I have done for Quality Department in Al-Noor
 2. Meetings Tracking System
 
 3. Analyzing Regular Text (Consultations)
-- The article will publish soon.
+- https://abdulaziz-alsulami.medium.com/analyzing-regular-text-b8eb99966378
