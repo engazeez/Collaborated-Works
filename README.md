@@ -1,5 +1,5 @@
 # Collaborated-works
-This is some of collaborated works I have done for Quality Department in Al-Noor Hospital.
+These are some of collaborated works I have done for Healthcare.
 1. Analyzing Regular Text (Consultations)
 - https://abdulaziz-alsulami.medium.com/analyzing-regular-text-b8eb99966378
 - ![Screen Shot 1442-12-02 at 11 24 54 AM](https://user-images.githubusercontent.com/55038583/125255252-e87f5c80-e303-11eb-8f1c-e887c316c0c8.png)
